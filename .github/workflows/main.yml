@@ -34,11 +34,7 @@ jobs:
         run: |
           echo what is in this directory
           ls -a
-          wxho is java installed
-          java -version
-          echo is git installed 
-          git --version
-          
+ 
           
           
           
