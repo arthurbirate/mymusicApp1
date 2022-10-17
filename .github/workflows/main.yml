@@ -35,6 +35,7 @@ jobs:
           echo what is in this directory
           ls -a
           git --version
+          whoami
           
           
           
